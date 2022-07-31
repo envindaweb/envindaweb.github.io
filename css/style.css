@@ -625,6 +625,56 @@ ul.conat_info li a:hover {
 
 /** end service section **/
 
+/** Downloads **/
+
+.downloads {
+     background-color: #ffffff;
+     margin-top: 80px;
+     padding: 90px 0;
+}
+
+.downloads .titlepage {
+     text-align: center;
+     padding-bottom: 30px;
+}
+
+.downloads .titlepage h2{
+     color: #e6007e;
+}
+
+.downloads .titlepage p {
+     color: #262626;
+     font-size: 17px;
+     line-height: 30px;
+     padding-top: 20px;
+}
+
+.downloads_main {
+     display: flex;
+     flex-wrap: wrap;
+}
+
+.downloads .titlepage a {
+     font-size: 16px;
+     transition: ease-in all 0.5s;
+     background-color: #e6007e;
+     color: #fff;
+     padding: 10px 0px;
+     max-width: 400px;
+     width: 100%;
+     display: block;
+     font-weight: 200;
+     margin-left: 275px;
+     margin-top: 10px;
+}
+
+.downloads .titlepage a:hover {
+     background-color: #680039;
+     transition: ease-in all 0.5s;
+     color: #ffffff;
+}
+
+/** End Downloads **/
 
 /** footer **/
 
